@@ -28,7 +28,7 @@ printf("%d ",array[i]);
 }
 printf("\n");
 }
-
+```
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/5eb9eb50-faae-46eb-a234-20ee3f8cbfca)

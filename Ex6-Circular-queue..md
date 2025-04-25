@@ -5,13 +5,13 @@ To write a C program to delete three elements from the filled circular queue.
 
 ## Algorithm
 1.Start
-2.Define a queue with a fixed size SIZE and initialize front and rear pointers.
-3.Define the deQueue() function to remove and return an element from the front of the queue.
-4.Check if the queue is empty using isEmpty(); if empty, print an error message.
-5.If the queue has one element, reset both front and rear to -1.
-6.If the queue has more than one element, update front to the next index using modulo operation ((front + 1) % SIZE).
-7.Return the removed element from the front of the queue.
-8.End
+2.Define a queue with a fixed size SIZE and initialize front and rear pointers.<br/>
+3.Define the deQueue() function to remove and return an element from the front of the queue.<br/>
+4.Check if the queue is empty using isEmpty(); if empty, print an error message.<br/>
+5.If the queue has one element, reset both front and rear to -1.<br/>
+6.If the queue has more than one element, update front to the next index using modulo operation ((front + 1) % SIZE).<br/>
+7.Return the removed element from the front of the queue.<br/>
+8.End<br/>
 
 ## Program:
 ```

@@ -5,11 +5,11 @@ To formulate the C code to display the elements of the priority queue after inse
 
 ## Algorithm
 Start
-1.Define a function printArray() that takes an array and its size as parameters.
-2.Loop through the array from index 0 to size-1.
-3.Print each element of the array during the loop.
-4.After printing all elements, print a newline for formatting.
-5.End
+1.Define a function printArray() that takes an array and its size as parameters.<br/>
+2.Loop through the array from index 0 to size-1.<br/>
+3.Print each element of the array during the loop.<br/>
+4.After printing all elements, print a newline for formatting.<br/>
+5.End<br/>
 ## Program:
 /*
 Program to o display the elements of the priority queue after insertion and deletion operation
